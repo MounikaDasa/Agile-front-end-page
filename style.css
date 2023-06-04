@@ -1,0 +1,9 @@
+.bg-cont{
+    background-image: url(./anchr\ img.jpg);
+    background-size: 100% auto;
+}
+.huge{
+    font-size: 10rem;
+    color: green;
+    font-weight: bold;
+}
